@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Rearrange Matrix by Sorting First Column/1.0.0": {
+        "runtime": {
+          "Rearrange Matrix by Sorting First Column.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Rearrange Matrix by Sorting First Column/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

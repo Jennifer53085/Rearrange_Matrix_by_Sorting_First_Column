@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Rearrange Matrix by Sorting First Column\Rearrange Matrix by Sorting First Column\bin\Debug\net8.0\Rearrange Matrix by Sorting First Column.exe
+C:\Users\user\source\repos\Rearrange Matrix by Sorting First Column\Rearrange Matrix by Sorting First Column\bin\Debug\net8.0\Rearrange Matrix by Sorting First Column.deps.json
+C:\Users\user\source\repos\Rearrange Matrix by Sorting First Column\Rearrange Matrix by Sorting First Column\bin\Debug\net8.0\Rearrange Matrix by Sorting First Column.runtimeconfig.json
+C:\Users\user\source\repos\Rearrange Matrix by Sorting First Column\Rearrange Matrix by Sorting First Column\bin\Debug\net8.0\Rearrange Matrix by Sorting First Column.dll
+C:\Users\user\source\repos\Rearrange Matrix by Sorting First Column\Rearrange Matrix by Sorting First Column\bin\Debug\net8.0\Rearrange Matrix by Sorting First Column.pdb
+C:\Users\user\source\repos\Rearrange Matrix by Sorting First Column\Rearrange Matrix by Sorting First Column\obj\Debug\net8.0\Rearrange Matrix by Sorting First Column.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Rearrange Matrix by Sorting First Column\Rearrange Matrix by Sorting First Column\obj\Debug\net8.0\Rearrange Matrix by Sorting First Column.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Rearrange Matrix by Sorting First Column\Rearrange Matrix by Sorting First Column\obj\Debug\net8.0\Rearrange Matrix by Sorting First Column.AssemblyInfo.cs
+C:\Users\user\source\repos\Rearrange Matrix by Sorting First Column\Rearrange Matrix by Sorting First Column\obj\Debug\net8.0\Rearrange Matrix by Sorting First Column.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Rearrange Matrix by Sorting First Column\Rearrange Matrix by Sorting First Column\obj\Debug\net8.0\Rearrange Matrix by Sorting First Column.dll
+C:\Users\user\source\repos\Rearrange Matrix by Sorting First Column\Rearrange Matrix by Sorting First Column\obj\Debug\net8.0\refint\Rearrange Matrix by Sorting First Column.dll
+C:\Users\user\source\repos\Rearrange Matrix by Sorting First Column\Rearrange Matrix by Sorting First Column\obj\Debug\net8.0\Rearrange Matrix by Sorting First Column.pdb
+C:\Users\user\source\repos\Rearrange Matrix by Sorting First Column\Rearrange Matrix by Sorting First Column\obj\Debug\net8.0\Rearrange Matrix by Sorting First Column.genruntimeconfig.cache
+C:\Users\user\source\repos\Rearrange Matrix by Sorting First Column\Rearrange Matrix by Sorting First Column\obj\Debug\net8.0\ref\Rearrange Matrix by Sorting First Column.dll
